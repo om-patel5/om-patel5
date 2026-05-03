@@ -6,7 +6,7 @@ Growing [bigideasdb.com](https://bigideasdb.com) ($10k/m) + [linkeddit.com](http
 
 ---
 
-### 🏗️ Me
+### 🏗️ Background
 
 I'm a **SaaS developer** and founder shipping real products. I build AI-powered tools that solve painful problems for indie hackers and founders — turning raw data from Reddit, reviews, and conversations into actionable opportunities and leads.
 
@@ -15,7 +15,7 @@ I'm a **SaaS developer** and founder shipping real products. I build AI-powered 
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Dev stack
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
